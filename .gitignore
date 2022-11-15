@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.pdf
+/pdf
+pdf
+.EXCEL_LIMPIO
+/EXCEL_LIMPIO
+EXCEL_LIMPIO
